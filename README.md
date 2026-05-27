@@ -1,7 +1,7 @@
 # RL Volleyball Game
 
 ## Overview
-A reinforcement learning-based volleyball game developed using Unity, where an agent learns to play volleyball through trial and error. The game is designed to implement reinforcement learning algorithms to improve agent behavior in the context of volleyball.
+A reinforcement learning-based volleyball demo developed using Unity
 
 ## Setup and Installation
 ### Prerequisites
@@ -43,7 +43,3 @@ mlagents-learn config/Volleyball.yaml --run-id=VB_1 --time-scale=1
 - To monitor training progress with TensorBoard, from your working directory, in another terminal window, run:
 ```bash
 tensorboard --logdir=results
-```
-
-## Acknoledgement
-This project was built with the help of Coder One's "An introduction to machine learning with Unity ML-Agents": https://www.gocoder.one/blog/introduction-to-unity-ml-agents/
