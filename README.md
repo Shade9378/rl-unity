@@ -1,7 +1,7 @@
-# RL Volleyball Game
+# RL Unity
 
 ## Overview
-A reinforcement learning-based volleyball demo developed using Unity
+A reinforcement learning-based volleyball game demo developed to test out Unity as a dev env
 
 ## Setup and Installation
 ### Prerequisites
